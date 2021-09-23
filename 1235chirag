@@ -97,18 +97,7 @@
                 </a>
             </div>
 
-            <div style="text-align: right; padding: 15px 50px;">
-                <a href="">
-                    <button style="background-color: rgb(122, 124, 124);">
-                        Previous
-                    </button>
-                </a>
-                <a href="https://1235chirag.github.io/Week3-Ques2/">
-                    <button style="margin-left: 20px;">
-                        Next
-                    </button>
-                </a>
-            </div>
+       
         </div>
 
     </div>
